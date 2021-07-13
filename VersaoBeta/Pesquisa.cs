@@ -84,10 +84,7 @@ namespace VersaoBeta
 
             cli.ShowDialog();
 
-            /*comentario
-             estanciando projeto
-             
-             */
+            
 
 
         }
